@@ -1,1 +1,1 @@
-require "control.lua"
+require "control"
